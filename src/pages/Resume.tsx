@@ -20,7 +20,7 @@ const Resume = () => {
       organizer: "MITK, Kundapura",
       period: "24-Hour Hackathon",
       description:
-        "Engineered an AI-driven computer vision solution under strict 24-hour time constraints, recognized as a top contender for technical execution, low-latency processing, and system architecture.",
+        "Engineered Krypton (AI Security Gateway & FinOps Dashboard) under strict 24-hour time constraints, recognized as a top contender for technical execution, low-latency processing, and system architecture.",
     },
     {
       title: "National & Regional Competitions",
@@ -45,7 +45,7 @@ const Resume = () => {
       subtitle: "AI Security Gateway & FinOps Dashboard",
       stack: ["React.js", "TypeScript", "FastAPI", "Zero-Trust", "Telemetry"],
       description:
-        "Engineered a zero-trust backend gateway and dynamic React.js dashboard using strict fixed-point accounting to intercept malicious requests and visualize real-time token telemetry.",
+        "Engineered a zero-trust backend gateway and dynamic React.js dashboard using strict fixed-point accounting to intercept malicious requests and visualize real-time token telemetry. Built during the MITK AI VISION 24H Hackathon.",
     },
     {
       title: "LifelineMesh",

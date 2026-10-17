@@ -17,10 +17,10 @@ const Index = () => {
       title: "Krypton",
       subtitle: "AI Security Gateway & FinOps Dashboard",
       description:
-        "Engineered a zero-trust backend gateway and dynamic React.js dashboard using strict fixed-point accounting to intercept malicious requests and visualize real-time token telemetry.",
+        "Engineered a zero-trust backend gateway and dynamic React.js dashboard using strict fixed-point accounting to intercept malicious requests and visualize real-time token telemetry. Built during the MITK AI VISION 24H Hackathon.",
       tags: ["React.js", "TypeScript", "AI Security", "Zero-Trust", "FinOps"],
       icon: Shield,
-      highlight: "Zero-Trust Architecture",
+      highlight: "MITK Hackathon Project",
     },
     {
       title: "LifelineMesh",
@@ -317,10 +317,10 @@ const Index = () => {
                   <Award size={14} /> Hackathons & Competitive Engineering
                 </div>
                 <h3 className="font-display text-2xl md:text-3xl font-semibold mb-3">
-                  MITK AI VISION 24H Hackathon Winner & Finalist in 7+ Regional Contests
+                  MITK AI VISION 24H Hackathon Consolation Prize Winner & Finalist in 7+ Regional Contests
                 </h3>
                 <p className="text-muted-foreground text-base leading-relaxed">
-                  Consistently recognized for rapid prototyping, architecture, and high-pressure software execution in events like Anveshana Prototype Competition, Matrix-Fusion Hackathon, Ayush-Habba, and Hackothsava.
+                  Awarded Consolation Prize for engineering Krypton under strict 24-hour time constraints, and consistently recognized for rapid prototyping, architecture, and high-pressure software execution in events like Anveshana Prototype Competition, Matrix-Fusion Hackathon, Ayush-Habba, and Hackothsava.
                 </p>
               </div>
               <div className="md:col-span-4 flex justify-start md:justify-end">

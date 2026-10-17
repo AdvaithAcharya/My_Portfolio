@@ -216,18 +216,10 @@ const About = () => {
             </h2>
             <div className="flex flex-wrap justify-center gap-3">
               {[
-                "Computer Vision",
-                "AI Security & FinOps",
-                "FastAPI Architectures",
-                "React & TypeScript",
-                "Distributed Protocols",
-                "Hackathons & Prototyping",
                 "Drawing & Sketching",
                 "Singing",
-                "Elocution & Public Speaking",
-                "Docker & DevOps",
-                "Open Source",
-                "Problem Solving (DSA)",
+                "Dancing",
+                "Playing Piano",
               ].map((interest, index) => (
                 <span
                   key={index}
