@@ -54,6 +54,13 @@ const Navigation = () => {
                 {link.name}
               </Link>
             ))}
+            <a
+              href="/resume.pdf"
+              download="Advaith_Acharya_Resume.pdf"
+              className="ml-2 inline-flex items-center gap-1.5 px-4 py-2 rounded-full text-xs font-semibold uppercase tracking-wider bg-accent text-accent-foreground hover:opacity-90 transition-all duration-300 shadow-sm"
+            >
+              Resume
+            </a>
           </div>
 
           {/* Mobile Menu Button */}
@@ -87,6 +94,14 @@ const Navigation = () => {
                 {link.name}
               </Link>
             ))}
+            <a
+              href="/resume.pdf"
+              download="Advaith_Acharya_Resume.pdf"
+              onClick={() => setIsOpen(false)}
+              className="px-4 py-3 rounded-xl text-lg font-medium bg-accent text-accent-foreground text-center mt-2 shadow-sm"
+            >
+              Download Resume
+            </a>
           </div>
         </div>
       </div>

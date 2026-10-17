@@ -151,9 +151,10 @@ This project is private and proprietary.
 ## 📞 Contact
 
 **Advaith Acharya**
-- Website: [Your website URL]
-- Email: [Your email]
-- LinkedIn: [Your LinkedIn profile]
+- Email: [advaith.23cs005@sode-edu.in](mailto:advaith.23cs005@sode-edu.in)
+- GitHub: [https://github.com/AdvaithAcharya](https://github.com/AdvaithAcharya)
+- LinkedIn: [https://www.linkedin.com/in/advaithacharya16](https://www.linkedin.com/in/advaithacharya16)
+- Phone: +91 6361473453
 
 ---
 
